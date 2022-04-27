@@ -1,5 +1,3 @@
-# Udemy
-
 # [Udemy](https://www.udemy.com/home/my-courses/learning/)
 
 Courses | Instructor | Type | Duration |
