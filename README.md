@@ -22,6 +22,7 @@ Courses | Instructor | Type | Duration |
 Courses | Instructor | Type | Duration |
 :-- | :--: | :--: | :--: |
 [The Complete Junior to Senior Web Developer Roadmap](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/)| Andrei Neagoie | Web Dev | 36 hours | 
+[Python Data Analysis & Visualization Masterclass](https://www.udemy.com/course/python-data-analysis-visualization/) | Colt Steele | Python |  20.5 hours | 
 [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) | Dr.Angela Yu | Python |  64 hours | 
 [100 Days Of Code - 2022 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/) | Maximilian Schwarzmüller | Web Dev |  79.5 hours | 
 [React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) | Maximilian Schwarzmüller | React |  48.5 hours | 
