@@ -17,3 +17,14 @@ Courses | Instructor | Type | Duration |
 [Tableau 2020 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/course/tableau10/) | Kirill Eremenko | Tableau | 9 hours | 
 [Tableau 20 Advanced Training: Master Tableau in Data Science](https://www.udemy.com/course/tableau10-advanced/) | Kirill Eremenko | Tableau | 10 hours | 
 [Complete Machine Learning & Data Science Bootcamp 2022](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/) | Andrei Neagoie | Data Science | 43 hours | 
+
+## [Wishlist](https://www.udemy.com/home/my-courses/wishlist/)
+Courses | Instructor | Type | Duration |
+:-- | :--: | :--: | :--: |
+[The Complete Junior to Senior Web Developer Roadmap](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/)| Andrei Neagoie | Web Dev | 36 hours | 
+[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) | Dr.Angela Yu | Python |  64 hours | 
+[100 Days Of Code - 2022 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/) | Maximilian Schwarzmüller | Web Dev |  79.5 hours | 
+[React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) | Maximilian Schwarzmüller | React |  48.5 hours | 
+[React Native - The Practical Guide](https://www.udemy.com/course/react-native-the-practical-guide/) | Maximilian Schwarzmüller | React Native |  28.5 hours | 
+
+
