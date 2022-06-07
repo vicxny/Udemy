@@ -19,7 +19,7 @@ Courses | Instructor | Type | Duration |
 [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/) | Stephen Grider | Data Structures + Algorithms | 13 hours | 
 [Master the Coding Interview: Big Tech (FAANG) Interviews](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/) | Andrei Neagoie | Data Structures + Algorithms | 36.5 hours | 
 
-## [Data Science](https://github.com/vicxny/Data-Analyst)
+## [Data Analytics](https://github.com/vicxny/Data-Analyst)
 Courses | Instructor | Type | Duration |
 :-- | :--: | :--: | :--: |
 [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/) | Al Sweigart | Python | 9.5 hours | 
