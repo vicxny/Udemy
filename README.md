@@ -1,8 +1,8 @@
 # [Udemy](https://www.udemy.com/home/my-courses/learning/)
 
-## [Web Development]()
+## [Web Development]
 
-## [Data Science]()
+## [Data Science](https://github.com/vicxny/Data-Analyst)
 
 Courses | Instructor | Type | Duration |
 :-- | :--: | :--: | :--: |
