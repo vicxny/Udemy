@@ -8,4 +8,4 @@ Courses | Instructor | Type | Duration |
 
 Resources for this lecture:
 
-(Starter and Final Code)[https://github.com/jonasschmedtmann/complete-javascript-course]
+[Starter and Final Code](https://github.com/jonasschmedtmann/complete-javascript-course)
