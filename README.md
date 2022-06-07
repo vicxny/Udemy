@@ -11,7 +11,7 @@ Courses | Instructor | Type | Duration |
 [React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) | Maximilian Schwarzmüller | React |  48.5 hours | 
 [React Native - The Practical Guide](https://www.udemy.com/course/react-native-the-practical-guide/) | Maximilian Schwarzmüller | React Native |  28.5 hours | 
 
-## [Data Structure & Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms)
+## [Data Structure & Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms/tree/main/Udemy)
 Courses | Instructor | Type | Duration |
 :-- | :--: | :--: | :--: |
 [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12202018?start=15#overview) | Andrei Neagoie | Data Structures + Algorithms | 19.5 hours | 
