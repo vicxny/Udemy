@@ -42,7 +42,7 @@ Courses | Instructor | Type | Duration |
 [MERN Stack Course 2023 - MongoDB, Express, React and NodeJS](https://www.udemy.com/course/mern-stack-course-mongodb-express-react-and-nodejs/) | John Smilga | MERN | 20.5 hours | 
 [React, NodeJS, Express & MongoDB - The MERN Fullstack Guide](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/) | Maximilian Schwarzmüller | MERN | 18.5 hours | 
 [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) | Maximilian Schwarzmüller | TypeSctipt | 15 hours | 
-[Docker & Kubernetes: The Practical Guide](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/) | Maximilian Schwarzmüller | TypeSctipt | 15 hours | 
+[Docker & Kubernetes: The Practical Guide](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/) | Maximilian Schwarzmüller | Docker | 23.5 hours | 
 
 
 
