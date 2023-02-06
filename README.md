@@ -41,7 +41,7 @@ Courses | Instructor | Type | Duration |
 [Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) | Jose Portilla | Data Science | 44 hours | 
 [MERN Stack Course 2023 - MongoDB, Express, React and NodeJS](https://www.udemy.com/course/mern-stack-course-mongodb-express-react-and-nodejs/) | John Smilga | MERN | 20.5 hours | 
 [MReact, NodeJS, Express & MongoDB - The MERN Fullstack Guide](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/)
- | Maximilian Schwarzmüller | MERN | 18.5 hours | 
+| Maximilian Schwarzmüller | MERN | 18.5 hours | 
 
 
 
