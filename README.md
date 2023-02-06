@@ -40,8 +40,7 @@ Courses | Instructor | Type | Duration |
 [100 Days Of Code - 2022 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/) | Maximilian Schwarzmüller | Web Dev |  79.5 hours | 
 [Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) | Jose Portilla | Data Science | 44 hours | 
 [MERN Stack Course 2023 - MongoDB, Express, React and NodeJS](https://www.udemy.com/course/mern-stack-course-mongodb-express-react-and-nodejs/) | John Smilga | MERN | 20.5 hours | 
-[MReact, NodeJS, Express & MongoDB - The MERN Fullstack Guide](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/)
-| Maximilian Schwarzmüller | MERN | 18.5 hours | 
+[MReact, NodeJS, Express & MongoDB - The MERN Fullstack Guide](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/) | Maximilian Schwarzmüller | MERN | 18.5 hours | 
 
 
 
